@@ -1,0 +1,19 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "todoServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sangwaniya/TODO-App.git"
+  },
+  "author": "Mohit Sangwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sangwaniya/TODO-App/issues"
+  },
+  "homepage": "https://github.com/Sangwaniya/TODO-App#readme"
+}

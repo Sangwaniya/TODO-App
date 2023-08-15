@@ -12,6 +12,8 @@
         function callback(){
             resp.json.then(parsedResponse);
         }
+        var title = document.getElementById("title").value;
+        console.log(title);
         fetch("http://localhost:3000/todos/", {
             method: "POST",
             body: JSON.stringify({
